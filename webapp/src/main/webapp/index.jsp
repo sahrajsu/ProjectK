@@ -6,6 +6,6 @@
 <h6> Deployment in Docker is successful </h6>
 <h5> HI i am testing git saturday update</h5> 
 <h1> testing ansible server and nodes </h1>
-<h3> TEST TEST TEST TEST </h3>
+<h3> TEST Successfully accumplished  </h3>
 
 
