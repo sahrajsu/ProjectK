@@ -5,3 +5,4 @@
 <h5>  $ $ $    U P P A L A P A T I    $ $ $  </h5>
 <h6> @@@@      Testing Begins Tuesday  @@@@@@@@@@@@@@</h6>
 <h2><b> Bhaskar uppalapati </b>  </h2>
+<h2><b> Docker tested ok </b>  </h2>
