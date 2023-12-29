@@ -3,6 +3,6 @@
 <h3>  $ $ $       R A J A   $ $to $  </h3>
 <h4>  $ $ $    B H A S K A R    $ $ $  </h4>
 <h5>  $ $ $    U P P A L A P A T I    $ $ $  </h5>
-<h6> @@@@      Testing Begins Tuesday  @@@@@@@@@@@@@@</h6>
+<h6> @@@@      Testing Begins Friday  @@@@@@@@@@@@@@</h6>
 <h2><b> Bhaskar uppalapati </b>  </h2>
-<h2><b> Docker tested ok </b>  </h2>
+<h2><b> I am ready to work on projectK  </b>  </h2>
